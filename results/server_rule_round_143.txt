@@ -1,0 +1,26 @@
+if x2 <= 12.968 and x2 <= 12.952 and x1 > -2.587 and age <= 60.5 and x1 > 4.981 and age <= 45.0 then class: 1 | based on 1,277 samples | coverage 50.78% | error 0.0% | relevance 50.78
+
+if x2 <= 12.968 and x2 <= 12.952 and x1 > -2.587 and age > 60.5 and x1 > 5.113 then class: 0 | based on 1,160 samples | coverage 46.68% | error 0.0% | relevance 46.68
+
+if x2 <= 12.968 and x2 <= 12.952 and x1 > -2.587 and age <= 60.5 and x1 <= 4.981 and age <= 45.0 then class: 0 | based on 1,135 samples | coverage 45.67% | error 0.0% | relevance 45.67
+
+if x2 <= 12.968 and x2 <= 12.952 and x1 > -2.587 and age > 60.5 and x1 <= 5.113 then class: 1 | based on 1,057 samples | coverage 42.03% | error 0.0% | relevance 42.03
+
+if x2 <= 12.968 and x2 <= 12.952 and x1 > -2.587 and age <= 60.5 and x1 <= 4.981 and age > 45.0 then class: 1 | based on 119 samples | coverage 4.73% | error 0.0% | relevance 4.73
+
+if x2 <= 12.968 and x2 <= 12.952 and x1 > -2.587 and age <= 60.5 and x1 > 4.981 and age > 45.0 and x1 > 5.062 then class: 0 | based on 101 samples | coverage 4.06% | error 0.0% | relevance 4.06
+
+if x2 <= 12.968 and x2 <= 12.952 and x1 <= -2.587 and age <= 45.0 then class: 0 | based on 80 samples | coverage 3.22% | error 0.0% | relevance 3.22
+
+if x2 <= 12.968 and x2 <= 12.952 and x1 <= -2.587 and age > 45.0 then class: 1 | based on 52 samples | coverage 2.07% | error 0.0% | relevance 2.07
+
+if x2 > 12.968 then class: 0 | based on 8 samples | coverage 0.32% | error 0.0% | relevance 0.32
+
+if x2 <= 12.968 and x2 > 12.952 and x2 <= 12.965 then class: 1 | based on 8 samples | coverage 0.32% | error 0.0% | relevance 0.32
+
+if x2 <= 12.968 and x2 > 12.952 and x2 > 12.965 and x1 > 6.525 then class: 1 | based on 1 samples | coverage 0.04% | error 0.0% | relevance 0.04
+
+if x2 <= 12.968 and x2 > 12.952 and x2 > 12.965 and x1 <= 6.525 then class: 0 | based on 1 samples | coverage 0.04% | error 0.0% | relevance 0.04
+
+if x2 <= 12.968 and x2 <= 12.952 and x1 > -2.587 and age <= 60.5 and x1 > 4.981 and age > 45.0 and x1 <= 5.062 then class: 1 | based on 1 samples | coverage 0.04% | error 0.0% | relevance 0.04
+

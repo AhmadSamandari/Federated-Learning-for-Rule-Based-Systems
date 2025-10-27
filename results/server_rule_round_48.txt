@@ -1,0 +1,26 @@
+if x2 > -2.993 and x2 > -2.97 and x1 > 0.829 and age > 45.0 and x1 > 4.754 and x1 > 4.788 then class: 0 | based on 1,299 samples | coverage 50.62% | error 0.0% | relevance 50.62
+
+if x2 > -2.993 and x2 > -2.97 and x1 > 0.829 and age <= 45.0 and x1 > 5.049 then class: 1 | based on 1,237 samples | coverage 50.82% | error 0.0% | relevance 50.82
+
+if x2 > -2.993 and x2 > -2.97 and x1 > 0.829 and age > 45.0 and x1 <= 4.754 and x1 <= 4.736 then class: 1 | based on 649 samples | coverage 26.66% | error 0.0% | relevance 26.66
+
+if x2 > -2.993 and x2 > -2.97 and x1 > 0.829 and age <= 45.0 and x1 <= 5.049 then class: 0 | based on 628 samples | coverage 24.47% | error 0.0% | relevance 24.47
+
+if x2 > -2.993 and x2 > -2.97 and x1 <= 0.829 and age <= 45.0 then class: 0 | based on 628 samples | coverage 24.47% | error 0.0% | relevance 24.47
+
+if x2 > -2.993 and x2 > -2.97 and x1 <= 0.829 and age > 45.0 then class: 1 | based on 539 samples | coverage 22.14% | error 0.0% | relevance 22.14
+
+if x2 > -2.993 and x2 <= -2.97 and age <= 67.5 then class: 0 | based on 7 samples | coverage 0.27% | error 0.0% | relevance 0.27
+
+if x2 <= -2.993 then class: 1 | based on 4 samples | coverage 0.16% | error 0.0% | relevance 0.16
+
+if x2 > -2.993 and x2 > -2.97 and x1 > 0.829 and age > 45.0 and x1 > 4.754 and x1 <= 4.788 and x1 <= 4.777 then class: 0 | based on 3 samples | coverage 0.12% | error 0.0% | relevance 0.12
+
+if x2 > -2.993 and x2 > -2.97 and x1 > 0.829 and age > 45.0 and x1 <= 4.754 and x1 > 4.736 and x2 <= 6.389 then class: 1 | based on 3 samples | coverage 0.12% | error 0.0% | relevance 0.12
+
+if x2 > -2.993 and x2 > -2.97 and x1 > 0.829 and age > 45.0 and x1 > 4.754 and x1 <= 4.788 and x1 > 4.777 then class: 1 | based on 1 samples | coverage 0.04% | error 0.0% | relevance 0.04
+
+if x2 > -2.993 and x2 > -2.97 and x1 > 0.829 and age > 45.0 and x1 <= 4.754 and x1 > 4.736 and x2 > 6.389 then class: 0 | based on 1 samples | coverage 0.04% | error 0.0% | relevance 0.04
+
+if x2 > -2.993 and x2 <= -2.97 and age > 67.5 then class: 1 | based on 1 samples | coverage 0.04% | error 0.0% | relevance 0.04
+

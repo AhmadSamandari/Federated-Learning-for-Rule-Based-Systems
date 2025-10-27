@@ -1,0 +1,28 @@
+if age <= 61.5 and x1 <= 5.344 and age <= 45.0 then class: 0 | based on 1,305 samples | coverage 51.97% | error 0.0% | relevance 51.97
+
+if age <= 61.5 and x1 > 5.344 and age <= 45.0 then class: 1 | based on 1,195 samples | coverage 48.01% | error 0.0% | relevance 48.01
+
+if age > 61.5 and x1 <= 5.645 and x1 <= 5.081 then class: 1 | based on 1,012 samples | coverage 40.66% | error 0.0% | relevance 40.66
+
+if age > 61.5 and x1 > 5.645 and x1 > 5.677 then class: 0 | based on 921 samples | coverage 36.68% | error 0.0% | relevance 36.68
+
+if age <= 61.5 and x1 > 5.344 and age > 45.0 and x1 > 5.633 then class: 0 | based on 241 samples | coverage 9.6% | error 0.0% | relevance 9.6
+
+if age <= 61.5 and x1 <= 5.344 and age > 45.0 and x1 <= 5.061 then class: 1 | based on 234 samples | coverage 9.4% | error 0.0% | relevance 9.4
+
+if age > 61.5 and x1 <= 5.645 and x1 > 5.081 and x2 <= 5.295 then class: 1 | based on 38 samples | coverage 1.53% | error 0.0% | relevance 1.53
+
+if age > 61.5 and x1 <= 5.645 and x1 > 5.081 and x2 > 5.295 then class: 0 | based on 32 samples | coverage 1.27% | error 0.0% | relevance 1.27
+
+if age <= 61.5 and x1 <= 5.344 and age > 45.0 and x1 > 5.061 and x2 > 4.307 then class: 0 | based on 8 samples | coverage 0.32% | error 0.0% | relevance 0.32
+
+if age <= 61.5 and x1 > 5.344 and age > 45.0 and x1 <= 5.633 and x2 <= 7.085 then class: 1 | based on 6 samples | coverage 0.24% | error 0.0% | relevance 0.24
+
+if age <= 61.5 and x1 <= 5.344 and age > 45.0 and x1 > 5.061 and x2 <= 4.307 then class: 1 | based on 3 samples | coverage 0.12% | error 0.0% | relevance 0.12
+
+if age > 61.5 and x1 > 5.645 and x1 <= 5.677 and x1 <= 5.668 then class: 0 | based on 2 samples | coverage 0.08% | error 0.0% | relevance 0.08
+
+if age <= 61.5 and x1 > 5.344 and age > 45.0 and x1 <= 5.633 and x2 > 7.085 then class: 0 | based on 2 samples | coverage 0.08% | error 0.0% | relevance 0.08
+
+if age > 61.5 and x1 > 5.645 and x1 <= 5.677 and x1 > 5.668 then class: 1 | based on 1 samples | coverage 0.04% | error 0.0% | relevance 0.04
+

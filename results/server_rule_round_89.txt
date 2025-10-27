@@ -1,0 +1,12 @@
+if x1 > 4.299 and age <= 45.0 and x1 > 4.776 then class: 1 | based on 1,313 samples | coverage 50.13% | error 0.0% | relevance 50.13
+
+if x1 > 4.299 and age > 45.0 and x1 > 5.374 then class: 0 | based on 1,194 samples | coverage 50.15% | error 0.0% | relevance 50.15
+
+if x1 <= 4.299 and age <= 45.0 then class: 0 | based on 1,111 samples | coverage 46.66% | error 0.0% | relevance 46.66
+
+if x1 <= 4.299 and age > 45.0 then class: 1 | based on 1,107 samples | coverage 42.27% | error 0.0% | relevance 42.27
+
+if x1 > 4.299 and age > 45.0 and x1 <= 5.374 then class: 1 | based on 199 samples | coverage 7.6% | error 0.0% | relevance 7.6
+
+if x1 > 4.299 and age <= 45.0 and x1 <= 4.776 then class: 0 | based on 76 samples | coverage 3.19% | error 0.0% | relevance 3.19
+

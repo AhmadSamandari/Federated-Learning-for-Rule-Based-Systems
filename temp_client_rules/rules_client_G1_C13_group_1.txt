@@ -1,0 +1,29 @@
+d0 <= 2.5	53.0	1.0
+d0 > 2.5 and N <= 6.5 and d0 > 3.5 and d_ms <= 1492.5 and F0 > -4346.5	36.0	0.0
+d0 > 2.5 and N > 6.5 and d_ms > 1047.5 and F0 <= -1535.0 and m <= 976.0 and d_ms > 1092.0	32.0	1.0
+d0 > 2.5 and N > 6.5 and d_ms <= 1047.5 and F0 <= -297.0 and F0 > -2565.5 and d0 > 3.5	15.0	0.0
+d0 > 2.5 and N > 6.5 and d_ms <= 1047.5 and F0 <= -297.0 and F0 <= -2565.5 and d_ms <= 815.0 and F0 <= -2895.0 and d0 > 3.5	8.0	0.0
+d0 > 2.5 and N > 6.5 and d_ms <= 1047.5 and F0 <= -297.0 and F0 <= -2565.5 and d_ms > 815.0 and d_ms <= 1014.5	8.0	1.0
+d0 > 2.5 and N <= 6.5 and d0 <= 3.5 and v0 > 73.0 and N <= 5.5 and F0 > -1093.0	5.0	0.0
+d0 > 2.5 and N <= 6.5 and d0 <= 3.5 and v0 > 73.0 and N <= 5.5 and F0 <= -1093.0 and v0 > 104.5	4.0	0.0
+d0 > 2.5 and N <= 6.5 and d0 > 3.5 and d_ms <= 1492.5 and F0 <= -4346.5 and d_ms <= 1227.5	4.0	0.0
+d0 > 2.5 and N > 6.5 and d_ms <= 1047.5 and F0 <= -297.0 and F0 > -2565.5 and d0 <= 3.5 and F0 <= -1689.0	3.0	0.0
+d0 > 2.5 and N > 6.5 and d_ms > 1047.5 and F0 > -1535.0 and d_ms > 1132.0 and m > 510.5	3.0	0.0
+d0 > 2.5 and N > 6.5 and d_ms <= 1047.5 and F0 <= -297.0 and F0 > -2565.5 and d0 <= 3.5 and F0 > -1689.0 and F0 <= -1165.5	3.0	1.0
+d0 > 2.5 and N > 6.5 and d_ms <= 1047.5 and F0 > -297.0	3.0	1.0
+d0 > 2.5 and N > 6.5 and d_ms > 1047.5 and F0 <= -1535.0 and m <= 976.0 and d_ms <= 1092.0 and v0 <= 107.5	2.0	1.0
+d0 > 2.5 and N <= 6.5 and d0 <= 3.5 and v0 <= 73.0	2.0	1.0
+d0 > 2.5 and N <= 6.5 and d0 <= 3.5 and v0 > 73.0 and N <= 5.5 and F0 <= -1093.0 and v0 <= 104.5	2.0	1.0
+d0 > 2.5 and N > 6.5 and d_ms > 1047.5 and F0 > -1535.0 and d_ms <= 1132.0	2.0	1.0
+d0 > 2.5 and N <= 6.5 and d0 <= 3.5 and v0 > 73.0 and N > 5.5 and F0 > -2709.5	2.0	1.0
+d0 > 2.5 and N <= 6.5 and d0 > 3.5 and d_ms <= 1492.5 and F0 <= -4346.5 and d_ms > 1227.5	2.0	1.0
+d0 > 2.5 and N > 6.5 and d_ms <= 1047.5 and F0 <= -297.0 and F0 > -2565.5 and d0 <= 3.5 and F0 > -1689.0 and F0 > -1165.5	2.0	0.0
+d0 > 2.5 and N <= 6.5 and d0 > 3.5 and d_ms > 1492.5	1.0	1.0
+d0 > 2.5 and N > 6.5 and d_ms <= 1047.5 and F0 <= -297.0 and F0 <= -2565.5 and d_ms > 815.0 and d_ms > 1014.5	1.0	0.0
+d0 > 2.5 and N > 6.5 and d_ms > 1047.5 and F0 <= -1535.0 and m <= 976.0 and d_ms <= 1092.0 and v0 > 107.5	1.0	0.0
+d0 > 2.5 and N > 6.5 and d_ms <= 1047.5 and F0 <= -297.0 and F0 <= -2565.5 and d_ms <= 815.0 and F0 <= -2895.0 and d0 <= 3.5 and F0 <= -3552.5	1.0	0.0
+d0 > 2.5 and N <= 6.5 and d0 <= 3.5 and v0 > 73.0 and N > 5.5 and F0 <= -2709.5	1.0	0.0
+d0 > 2.5 and N > 6.5 and d_ms > 1047.5 and F0 <= -1535.0 and m > 976.0	1.0	0.0
+d0 > 2.5 and N > 6.5 and d_ms <= 1047.5 and F0 <= -297.0 and F0 <= -2565.5 and d_ms <= 815.0 and F0 <= -2895.0 and d0 <= 3.5 and F0 > -3552.5	1.0	1.0
+d0 > 2.5 and N > 6.5 and d_ms > 1047.5 and F0 > -1535.0 and d_ms > 1132.0 and m <= 510.5	1.0	1.0
+d0 > 2.5 and N > 6.5 and d_ms <= 1047.5 and F0 <= -297.0 and F0 <= -2565.5 and d_ms <= 815.0 and F0 > -2895.0	1.0	1.0

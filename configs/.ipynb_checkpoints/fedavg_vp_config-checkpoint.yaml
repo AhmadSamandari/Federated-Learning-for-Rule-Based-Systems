@@ -1,0 +1,14 @@
+model_name: "FedAvg"
+dataset_node1_path: "datasets/VP/node1.csv" # Adjusted path based on your notebook's `.\Data\node1.csv`
+dataset_node2_path: "datasets/VP/node2.csv" # Adjusted path
+test_size: 0.2 # Matches your notebook's test_size
+client_sample_size: 200 # Number of samples per client, matches your notebook
+num_rounds: 250 # Matches your notebook
+number_clients: 12 # Your notebook samples 12 from each group, so 24 total
+local_epochs: 10 # Matches your notebook
+batch_size: 34 # Matches your notebook's batch_size for local training
+optimizer_learning_rate: 0.001 # Specific learning rate for Adam, matches your notebook
+client_val_split: 0.2 # Proportion of client data for local validation, matches your notebook's test_size for client splits
+random_state: 38 # Consistent random state
+output_filename: "results/fedavg_vp_results.npy"
+nn_layer_sizes: [35, 100, 35] # New parameter to specify the NN architecture

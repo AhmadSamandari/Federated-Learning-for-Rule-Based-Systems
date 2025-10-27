@@ -1,0 +1,14 @@
+model_name: "FedProx"
+dataset_node1_path: "datasets/HSP/GP1.csv"
+dataset_node2_path: "datasets/HSP/GP2.csv"
+test_size: 0.05
+client_sample_size: 200 # Number of samples per client
+num_rounds: 250
+number_clients: 6 # Number of clients to participate in each round
+local_epochs: 10
+batch_size: 16 # Batch size for local training
+learning_rate: 0.01
+client_val_split: 0.1 # Proportion of client data for local validation (might not be used in FedProx local training loop directly)
+random_state: 38
+mu: 0.001 # <-- NEW: FedProx regularization parameter
+output_filename: "results/fedprox_results.npy" # Path to save results

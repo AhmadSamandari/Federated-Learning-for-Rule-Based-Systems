@@ -1,0 +1,21 @@
+d0 <= 3.5 and d_ms > 580.0 and m <= 844.0	68.0	1.0
+d0 > 3.5 and N <= 8.5 and d_ms <= 1264.5 and F0 <= -226.5	52.0	0.0
+d0 <= 3.5 and d_ms > 580.0 and m > 844.0 and m > 852.0 and N > 3.5 and v0 > 69.0	19.0	1.0
+d0 > 3.5 and N > 8.5 and m <= 887.0 and d_ms > 767.5	15.0	1.0
+d0 > 3.5 and N > 8.5 and m > 887.0 and N > 9.5	8.0	0.0
+d0 > 3.5 and N <= 8.5 and d_ms > 1264.5 and N <= 4.5 and F0 > -4719.0	6.0	0.0
+d0 > 3.5 and N <= 8.5 and d_ms > 1264.5 and N > 4.5 and m <= 918.5	5.0	1.0
+d0 <= 3.5 and d_ms <= 580.0 and v0 <= 145.0 and d_ms > 530.5	5.0	0.0
+d0 <= 3.5 and d_ms > 580.0 and m > 844.0 and m <= 852.0	3.0	0.0
+d0 > 3.5 and N > 8.5 and m <= 887.0 and d_ms <= 767.5 and F0 > -3844.0	3.0	0.0
+d0 > 3.5 and N > 8.5 and m > 887.0 and N <= 9.5	2.0	1.0
+d0 > 3.5 and N > 8.5 and m <= 887.0 and d_ms <= 767.5 and F0 <= -3844.0	2.0	1.0
+d0 <= 3.5 and d_ms > 580.0 and m > 844.0 and m > 852.0 and N > 3.5 and v0 <= 69.0 and v0 <= 67.5	2.0	1.0
+d0 <= 3.5 and d_ms <= 580.0 and v0 > 145.0	2.0	1.0
+d0 <= 3.5 and d_ms <= 580.0 and v0 <= 145.0 and d_ms <= 530.5 and v0 <= 126.5	2.0	1.0
+d0 > 3.5 and N <= 8.5 and d_ms > 1264.5 and N > 4.5 and m > 918.5	1.0	0.0
+d0 > 3.5 and N <= 8.5 and d_ms > 1264.5 and N <= 4.5 and F0 <= -4719.0	1.0	1.0
+d0 > 3.5 and N <= 8.5 and d_ms <= 1264.5 and F0 > -226.5	1.0	1.0
+d0 <= 3.5 and d_ms > 580.0 and m > 844.0 and m > 852.0 and N > 3.5 and v0 <= 69.0 and v0 > 67.5	1.0	0.0
+d0 <= 3.5 and d_ms > 580.0 and m > 844.0 and m > 852.0 and N <= 3.5	1.0	0.0
+d0 <= 3.5 and d_ms <= 580.0 and v0 <= 145.0 and d_ms <= 530.5 and v0 > 126.5	1.0	0.0

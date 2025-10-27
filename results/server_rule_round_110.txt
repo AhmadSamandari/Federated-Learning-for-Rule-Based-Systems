@@ -1,0 +1,32 @@
+if age > 29.5 and x1 > 4.958 and age > 45.0 and x1 > 4.985 then class: 0 | based on 1,286 samples | coverage 51.52% | error 0.0% | relevance 51.52
+
+if age > 29.5 and x1 <= 4.958 and age > 45.0 and x1 <= 4.822 and x1 <= 4.794 then class: 1 | based on 1,179 samples | coverage 47.08% | error 0.0% | relevance 47.08
+
+if age <= 29.5 and x1 > 4.561 and x1 > 4.99 then class: 1 | based on 1,158 samples | coverage 46.25% | error 0.0% | relevance 46.25
+
+if age <= 29.5 and x1 <= 4.561 then class: 0 | based on 1,052 samples | coverage 42.15% | error 0.0% | relevance 42.15
+
+if age > 29.5 and x1 <= 4.958 and age <= 45.0 and x1 <= 4.555 then class: 0 | based on 109 samples | coverage 4.37% | error 0.0% | relevance 4.37
+
+if age > 29.5 and x1 > 4.958 and age <= 45.0 then class: 1 | based on 104 samples | coverage 4.15% | error 0.0% | relevance 4.15
+
+if age <= 29.5 and x1 > 4.561 and x1 <= 4.99 and x2 > 4.622 then class: 1 | based on 42 samples | coverage 1.68% | error 0.0% | relevance 1.68
+
+if age <= 29.5 and x1 > 4.561 and x1 <= 4.99 and x2 <= 4.622 then class: 0 | based on 28 samples | coverage 1.12% | error 0.0% | relevance 1.12
+
+if age > 29.5 and x1 <= 4.958 and age > 45.0 and x1 > 4.822 and x2 <= 4.558 then class: 1 | based on 12 samples | coverage 0.48% | error 0.0% | relevance 0.48
+
+if age > 29.5 and x1 <= 4.958 and age > 45.0 and x1 > 4.822 and x2 > 4.558 then class: 0 | based on 11 samples | coverage 0.44% | error 0.0% | relevance 0.44
+
+if age > 29.5 and x1 > 4.958 and age > 45.0 and x1 <= 4.985 and x2 > 4.555 then class: 0 | based on 6 samples | coverage 0.24% | error 0.0% | relevance 0.24
+
+if age > 29.5 and x1 <= 4.958 and age > 45.0 and x1 <= 4.822 and x1 > 4.794 and x1 > 4.798 then class: 1 | based on 4 samples | coverage 0.16% | error 0.0% | relevance 0.16
+
+if age > 29.5 and x1 <= 4.958 and age <= 45.0 and x1 > 4.555 and x2 > 5.84 then class: 1 | based on 4 samples | coverage 0.16% | error 0.0% | relevance 0.16
+
+if age > 29.5 and x1 <= 4.958 and age <= 45.0 and x1 > 4.555 and x2 <= 5.84 then class: 0 | based on 3 samples | coverage 0.12% | error 0.0% | relevance 0.12
+
+if age > 29.5 and x1 > 4.958 and age > 45.0 and x1 <= 4.985 and x2 <= 4.555 then class: 1 | based on 1 samples | coverage 0.04% | error 0.0% | relevance 0.04
+
+if age > 29.5 and x1 <= 4.958 and age > 45.0 and x1 <= 4.822 and x1 > 4.794 and x1 <= 4.798 then class: 0 | based on 1 samples | coverage 0.04% | error 0.0% | relevance 0.04
+

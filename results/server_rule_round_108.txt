@@ -1,0 +1,48 @@
+if x2 <= 11.694 and age > 20.5 and x1 <= 5.029 and age > 45.0 then class: 1 | based on 1,161 samples | coverage 45.57% | error 0.0% | relevance 45.57
+
+if x2 <= 11.694 and age > 20.5 and x1 > 5.029 and age > 45.0 then class: 0 | based on 1,133 samples | coverage 46.21% | error 0.0% | relevance 46.21
+
+if x2 <= 11.694 and age > 20.5 and x1 <= 5.029 and age <= 45.0 and x1 <= 4.776 then class: 0 | based on 1,033 samples | coverage 42.13% | error 0.0% | relevance 42.13
+
+if x2 <= 11.694 and age > 20.5 and x1 > 5.029 and age <= 45.0 then class: 1 | based on 1,028 samples | coverage 40.35% | error 0.0% | relevance 40.35
+
+if x2 <= 11.694 and age <= 20.5 and x1 <= 4.752 then class: 0 | based on 115 samples | coverage 4.69% | error 0.0% | relevance 4.69
+
+if x2 <= 11.694 and age <= 20.5 and x1 > 4.752 then class: 1 | based on 90 samples | coverage 3.53% | error 0.0% | relevance 3.53
+
+if x2 > 11.694 and x2 > 12.137 and age <= 65.5 and x1 > 4.784 and age <= 45.0 then class: 1 | based on 76 samples | coverage 2.98% | error 0.0% | relevance 2.98
+
+if x2 > 11.694 and x2 > 12.137 and age <= 65.5 and x1 <= 4.784 and age <= 45.0 then class: 0 | based on 61 samples | coverage 2.49% | error 0.0% | relevance 2.49
+
+if x2 > 11.694 and x2 > 12.137 and age <= 65.5 and x1 <= 4.784 and age > 45.0 then class: 1 | based on 46 samples | coverage 1.81% | error 0.0% | relevance 1.81
+
+if x2 > 11.694 and x2 <= 12.137 and x1 > -2.527 and x1 <= 9.633 and x1 > -1.44 and x1 <= 8.424 and age > 45.0 and x1 <= 5.131 then class: 1 | based on 38 samples | coverage 1.49% | error 0.0% | relevance 1.49
+
+if x2 > 11.694 and x2 > 12.137 and age > 65.5 and x1 > 4.756 then class: 0 | based on 34 samples | coverage 1.39% | error 0.0% | relevance 1.39
+
+if x2 <= 11.694 and age > 20.5 and x1 <= 5.029 and age <= 45.0 and x1 > 4.776 then class: 1 | based on 30 samples | coverage 1.18% | error 0.0% | relevance 1.18
+
+if x2 > 11.694 and x2 > 12.137 and age <= 65.5 and x1 > 4.784 and age > 45.0 and x1 > 5.152 then class: 0 | based on 30 samples | coverage 1.22% | error 0.0% | relevance 1.22
+
+if x2 > 11.694 and x2 > 12.137 and age > 65.5 and x1 <= 4.756 then class: 1 | based on 24 samples | coverage 0.94% | error 0.0% | relevance 0.94
+
+if x2 > 11.694 and x2 <= 12.137 and x1 > -2.527 and x1 <= 9.633 and x1 > -1.44 and x1 <= 8.424 and age <= 45.0 and x1 > 4.734 then class: 1 | based on 22 samples | coverage 0.86% | error 0.0% | relevance 0.86
+
+if x2 > 11.694 and x2 <= 12.137 and x1 > -2.527 and x1 <= 9.633 and x1 > -1.44 and x1 <= 8.424 and age <= 45.0 and x1 <= 4.734 then class: 0 | based on 20 samples | coverage 0.82% | error 0.0% | relevance 0.82
+
+if x2 > 11.694 and x2 <= 12.137 and x1 > -2.527 and x1 > 9.633 and age <= 45.5 then class: 1 | based on 17 samples | coverage 0.67% | error 0.0% | relevance 0.67
+
+if x2 > 11.694 and x2 <= 12.137 and x1 > -2.527 and x1 <= 9.633 and x1 > -1.44 and x1 <= 8.424 and age > 45.0 and x1 > 5.131 then class: 0 | based on 13 samples | coverage 0.53% | error 0.0% | relevance 0.53
+
+if x2 > 11.694 and x2 <= 12.137 and x1 > -2.527 and x1 <= 9.633 and x1 <= -1.44 then class: 1 | based on 12 samples | coverage 0.47% | error 0.0% | relevance 0.47
+
+if x2 > 11.694 and x2 <= 12.137 and x1 > -2.527 and x1 <= 9.633 and x1 > -1.44 and x1 > 8.424 and age > 45.0 then class: 0 | based on 7 samples | coverage 0.29% | error 0.0% | relevance 0.29
+
+if x2 > 11.694 and x2 <= 12.137 and x1 <= -2.527 then class: 0 | based on 5 samples | coverage 0.2% | error 0.0% | relevance 0.2
+
+if x2 > 11.694 and x2 <= 12.137 and x1 > -2.527 and x1 <= 9.633 and x1 > -1.44 and x1 > 8.424 and age <= 45.0 then class: 1 | based on 3 samples | coverage 0.12% | error 0.0% | relevance 0.12
+
+if x2 > 11.694 and x2 <= 12.137 and x1 > -2.527 and x1 > 9.633 and age > 45.5 then class: 0 | based on 1 samples | coverage 0.04% | error 0.0% | relevance 0.04
+
+if x2 > 11.694 and x2 > 12.137 and age <= 65.5 and x1 > 4.784 and age > 45.0 and x1 <= 5.152 then class: 1 | based on 1 samples | coverage 0.04% | error 0.0% | relevance 0.04
+

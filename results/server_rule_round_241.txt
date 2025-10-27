@@ -1,0 +1,28 @@
+if x2 <= 12.909 and x1 > -2.507 and x1 > 0.154 and age > 45.0 and x1 > 5.02 then class: 0 | based on 1,235 samples | coverage 48.79% | error 0.0% | relevance 48.79
+
+if x2 <= 12.909 and x1 > -2.507 and x1 > 0.154 and age <= 45.0 and x1 > 5.356 then class: 1 | based on 1,212 samples | coverage 49.09% | error 0.0% | relevance 49.09
+
+if x2 <= 12.909 and x1 > -2.507 and x1 > 0.154 and age <= 45.0 and x1 <= 5.356 then class: 0 | based on 805 samples | coverage 31.81% | error 0.0% | relevance 31.81
+
+if x2 <= 12.909 and x1 > -2.507 and x1 > 0.154 and age > 45.0 and x1 <= 5.02 then class: 1 | based on 732 samples | coverage 29.65% | error 0.0% | relevance 29.65
+
+if x2 <= 12.909 and x1 > -2.507 and x1 <= 0.154 and age > 45.0 then class: 1 | based on 458 samples | coverage 18.55% | error 0.0% | relevance 18.55
+
+if x2 <= 12.909 and x1 > -2.507 and x1 <= 0.154 and age <= 45.0 then class: 0 | based on 375 samples | coverage 14.82% | error 0.0% | relevance 14.82
+
+if x2 <= 12.909 and x1 <= -2.507 and age <= 45.0 then class: 0 | based on 91 samples | coverage 3.6% | error 0.0% | relevance 3.6
+
+if x2 <= 12.909 and x1 <= -2.507 and age > 45.0 then class: 1 | based on 59 samples | coverage 2.39% | error 0.0% | relevance 2.39
+
+if x2 > 12.909 and age > 28.5 and x1 > 4.296 and age > 45.0 then class: 0 | based on 12 samples | coverage 0.47% | error 0.0% | relevance 0.47
+
+if x2 > 12.909 and age <= 28.5 and x1 <= 7.234 then class: 0 | based on 12 samples | coverage 0.47% | error 0.0% | relevance 0.47
+
+if x2 > 12.909 and age > 28.5 and x1 <= 4.296 and age > 47.0 then class: 1 | based on 4 samples | coverage 0.16% | error 0.0% | relevance 0.16
+
+if x2 > 12.909 and age > 28.5 and x1 > 4.296 and age <= 45.0 then class: 1 | based on 3 samples | coverage 0.12% | error 0.0% | relevance 0.12
+
+if x2 > 12.909 and age > 28.5 and x1 <= 4.296 and age <= 47.0 then class: 0 | based on 1 samples | coverage 0.04% | error 0.0% | relevance 0.04
+
+if x2 > 12.909 and age <= 28.5 and x1 > 7.234 then class: 1 | based on 1 samples | coverage 0.04% | error 0.0% | relevance 0.04
+

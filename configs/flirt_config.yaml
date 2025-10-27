@@ -1,0 +1,22 @@
+model_name: "Flirt" 
+dataset_type: "HSP"
+dataset_node1_path: "datasets/HSP/GP1.csv"
+dataset_node2_path: "datasets/HSP/GP2.csv"
+test_size: 0.05
+client_sample_size: 200
+num_rounds: 250
+number_clients: 6 
+min_coverage_for_merge: 3.0
+rules_output_folder: "temp_client_rules"
+synthetic_data_size: 5000
+server_val_split: 0.2
+random_state: 38
+output_filename: "results/flirt_results_hsp.npy" # <-- Changed filename for clarity
+
+# HSP-specific parameters
+feature_names: ['x1', 'x2', 'age'] # <-- NEW: Explicit feature names for HSP
+target_label_names: ['0', '1'] # <-- NEW: Explicit target label names
+age_group1_min: 20
+age_group1_max: 30
+age_group2_min: 60
+age_group2_max: 70

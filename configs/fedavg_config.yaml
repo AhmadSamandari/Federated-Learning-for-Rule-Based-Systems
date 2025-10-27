@@ -1,0 +1,14 @@
+model_name: "FedAvg"
+dataset_node1_path: "datasets/HSP/GP1.csv"
+dataset_node2_path: "datasets/HSP/GP2.csv"
+test_size: 0.05
+client_sample_size: 200 # Number of samples per client
+num_rounds: 250
+number_clients: 6 # Number of clients to participate in each round
+local_epochs: 10
+batch_size: 16 # Batch size for local training
+optimizer_learning_rate: 0.01 # Added for consistency, adjust if your HSP model used SGD with 0.01
+client_val_split: 0.1 # Proportion of client data for local validation
+random_state: 38
+output_filename: "results/fedavg_results.npy"
+nn_layer_sizes: [25, 60, 25] # Original NN architecture
